@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
+id=aptx-patch
+name=aptX(HD) Patch
+version=1.0
 versionCode=1
-author=topjohnwu
-description=A short description
+author=simonsmh
+description=Add aptX missing library.
 template=1400

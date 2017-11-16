@@ -1,11 +1,16 @@
-# Magisk Module Template
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/module_repo.md)
+#### aptX Patch
 
-### README.md
+Add missing aptX library to your system.
 
-This `README.md` can be shown in Magisk Manager. Place any information/changelog/notes you like.
+#### NOTICE
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+* You should use latest Magisk Manager to install this module. If you meet any problem under installation from Magisk Manager, please try to install it from recovery.
+* Recent fixes:
+Update for Shizuku
 
-You can edit your `README.md` within Github's online editor, it also has an preview button! Check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for markdown syntaxes, it's super easy!
+#### Credit & Support
+
+* Copyright (C) 2017 simonsmh <simonsmh@gmail.com>
+* Any issue or pull request is welcomed.
+* Star this module at [GitHub](https://github.com/Magisk-Modules-Repo/magisk-aptX-patch).
