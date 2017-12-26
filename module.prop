@@ -4,4 +4,4 @@ version=1.0
 versionCode=1
 author=simonsmh
 description=Add aptX missing library.
-template=1400
+minMagisk=1500
