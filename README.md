@@ -1,5 +1,6 @@
-
 #### aptX Patch
+
+**##NO LONGER MAINTAINED##**
 
 Add missing aptX library to your system.
 
